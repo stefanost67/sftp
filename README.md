@@ -1,7 +1,7 @@
 # sftp
 Securely share your files via SFTP
 
-This work is forked that on https://github.com/atmoz/sftp.
+This work is forked from that on https://github.com/atmoz/sftp.
 
 What I did is:
 
